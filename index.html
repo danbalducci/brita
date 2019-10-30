@@ -2,15 +2,13 @@
 <html>
 <!-- This is a link to the latest A-Frame library-->
 <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
-
-<!-- This is a link to the ar.js library for A-Frame -->
 <script src="https://raw.githack.com/jeromeetienne/AR.js/2.0.1/aframe/build/aframe-ar.js"></script>
-
-<body style='margin : 0px; overflow: hidden;'>
+	<body style='margin : 0px; overflow: hidden;'>
 
 <a-scene embedded arjs>
 
-<a-marker-camera preset="hiro">
+<a-marker type="pattern" preset="custom" url="pattern-logo.patt"
+
 
 <a-entity gltf-model="url(https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Models@master/2.0/WaterBottle/glTF/WaterBottle.gltf)" scale="10.0 10.0 10.0" rotation="0 0 0" position="2 0 0" opacity=".70"></a-entity>
 
