@@ -1,0 +1,309 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5123,
+            "count" : 174,
+            "max" : [
+                173
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 174,
+            "max" : [
+                10.984308242797852,
+                16.61649513244629,
+                -198.24896240234375
+            ],
+            "min" : [
+                -22.85744857788086,
+                -17.185914993286133,
+                -213.60552978515625
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 174,
+            "max" : [
+                0.9915929436683655,
+                0.9989200830459595,
+                0.4445042312145233
+            ],
+            "min" : [
+                -0.9892653226852417,
+                -0.9946507215499878,
+                -0.9999772310256958
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 174,
+            "max" : [
+                0.997145414352417,
+                0.9896702170372009,
+                0.4538941979408264,
+                1.0
+            ],
+            "min" : [
+                -0.9908663034439087,
+                -0.7756723761558533,
+                -0.9908643960952759,
+                1.0
+            ],
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 174,
+            "max" : [
+                0.9383999705314636,
+                0.9007259979844093
+            ],
+            "min" : [
+                0.3242189884185791,
+                0.43554699420928955
+            ],
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5123,
+            "count" : 2736,
+            "max" : [
+                2735
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 2736,
+            "max" : [
+                30.09122085571289,
+                36.73366165161133,
+                -1.0520130395889282
+            ],
+            "min" : [
+                -42.91958999633789,
+                -34.763221740722656,
+                -209.94105529785156
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5126,
+            "count" : 2736,
+            "max" : [
+                1.0,
+                0.9999999403953552,
+                1.0
+            ],
+            "min" : [
+                -0.9987121224403381,
+                -0.9999142289161682,
+                -1.0
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 2736,
+            "max" : [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min" : [
+                -0.999374508857727,
+                -0.9565598964691162,
+                -0.9998843669891357,
+                1.0
+            ],
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 2736,
+            "max" : [
+                0.9971619844436646,
+                0.9960329998284578
+            ],
+            "min" : [
+                0.0019529999699443579,
+                0.0019530057907104492
+            ],
+            "type" : "VEC2"
+        }
+    ],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 348,
+            "byteOffset" : 0,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2088,
+            "byteOffset" : 348,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2088,
+            "byteOffset" : 2436,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2784,
+            "byteOffset" : 4524,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1392,
+            "byteOffset" : 7308,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5472,
+            "byteOffset" : 8700,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32832,
+            "byteOffset" : 14172,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32832,
+            "byteOffset" : 47004,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 43776,
+            "byteOffset" : 79836,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 21888,
+            "byteOffset" : 123612,
+            "target" : 34962
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 145500,
+            "uri" : "bottle.bin"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "CRYSTAL_GEYSER_c4d",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2,
+                        "POSITION" : 1,
+                        "TANGENT" : 3,
+                        "TEXCOORD_0" : 4
+                    },
+                    "indices" : 0
+                },
+                {
+                    "attributes" : {
+                        "NORMAL" : 7,
+                        "POSITION" : 6,
+                        "TANGENT" : 8,
+                        "TEXCOORD_0" : 9
+                    },
+                    "indices" : 5
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "Camera",
+            "rotation" : [
+                0.483536034822464,
+                0.33687159419059753,
+                -0.20870360732078552,
+                0.7804827094078064
+            ],
+            "translation" : [
+                7.481131553649902,
+                5.34366512298584,
+                6.5076398849487305
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "CRYSTAL_GEYSER_c4d",
+            "rotation" : [
+                0.7071068286895752,
+                0.0,
+                -0.0,
+                0.7071067094802856
+            ]
+        },
+        {
+            "name" : "Lamp",
+            "rotation" : [
+                0.16907575726509094,
+                0.7558802962303162,
+                -0.27217137813568115,
+                0.570947527885437
+            ],
+            "scale" : [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "translation" : [
+                4.076245307922363,
+                5.903861999511719,
+                -1.0054539442062378
+            ]
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                1,
+                2,
+                0
+            ]
+        }
+    ]
+}
